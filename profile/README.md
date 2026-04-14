@@ -16,7 +16,7 @@ Developer focused on building practical, high-quality open-source projects. Pass
 
 - Email: hub.mgv@gmail.com
 - Discord: mgv150
-- GitHub: https://github.com/mgv-hub
+- GitHub: https://github.com/hub-mgv
 
 ## Repository Stats
 
